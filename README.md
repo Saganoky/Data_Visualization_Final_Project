@@ -4,7 +4,7 @@ This is the code for the final project for Fundamentals of Data Visualization ta
 
 The data this analyzes is from the CMS open payments dataset which can be found here: https://openpaymentsdata.cms.gov/
 
-This dataset it huge though so I limit it to:
+This dataset it huge though so I limited it to:
 Physicians
 2022
 Minnesota Only
